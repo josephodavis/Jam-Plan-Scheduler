@@ -1,0 +1,37 @@
+class Schedule 
+    students <- list of students
+    classesF <- list of full classes
+    classesH <- list of half classes
+    allClasses <- list of all classes
+    csv <- csv path
+    fullClasses <- number of full classes, assuming a certain format of csv file where full classes come first
+
+    constructor Schedule(String path, int numFullClasses) creates a blank schedule
+
+    function prepare() adds all of the classes in their proper places and initializes all of the students with their preferences
+        numCols <- count columns of csv
+
+        go through each column and initialize people's priorities, create all of the proper lists and objects
+
+    function readCol(int col, String delimiter) takes the data from a column in a csv file and returns it in the form of a string array
+
+    function countCols(String delimiter) returns the number of columns in a csv file
+
+
+class Runner
+    function main
+        create a schedule object based off of the csv with the data in it 
+
+
+        FIRST PASS - check if first 5 preferences are available for preferred day are available
+
+        SECOND PASS - if there are still students left who can't get their prefered day length because they don't fit into classes that 
+        they set as their top 5 of the preferred length
+
+        FINAL PASS - put leftover people in random classes if nothing they have ranked has space
+
+
+        createResultCSV(jamPlan)
+    
+
+    function createResultCSV() takes the plan and creates the CSV containing the results for each class

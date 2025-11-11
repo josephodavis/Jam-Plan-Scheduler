@@ -1,0 +1,11 @@
+Student Last Name,Student First Name,Student ID,Student Grade Level,Preference for a full or half-day class,Course A,Course B,Course C,Course D,Course E,Course F,Course G,Course H,Course I,Course J,Course K,Course L,Course M,Course N,Course O,Course P,Course Q,Course R,Course S,Course T,Course U,Course V,Course W,Course X,Course Y,Course Z,Course AA,Course BB,Course CC,Course DD,Course EE,Course FF,Course GG,Course HH,Course II,Course JJ,Course KK
+Smith,John,3001,9,full,10,,1,8,,3,,,7,5,,,6,,9,,,2,,,,4,,,,,10,9,8,7,2,6,1,,5,3,4
+Roberts,Jane,3002,10,full,,1,,2,,,,,,,3,10,,6,,,,,4,7,,,8,9,,5,1,7,9,2,8,6,5,3,4,10,
+Ramirez,Chris,3003,10,half,,,,,,2,,1,10,3,,,9,,,8,,7,,,,6,,5,,4,6,2,,9,5,10,8,4,7,3,1
+Walker,Annie,3004,11,half,,,,,10,6,,,7,,5,,4,8,,,3,9,,2,,,,,1,,,10,7,5,6,2,4,1,3,8,9
+Adkins,Bill,3005,11,full,,,,10,1,,2,9,,8,,3,,,4,,,,5,,6,,,,7,,10,7,6,8,4,1,5,3,2,9,
+Patel,Ellie,3006,9,half,1,,2,,,,3,10,,,4,,,,,9,8,,,,7,,6,,5,,7,4,2,10,3,8,1,6,9,,5
+Lee,Jason,3007,9,full,,8,7,,,9,6,,,,,5,,4,10,,,,,,3,2,,,,1,2,,3,7,1,4,9,10,5,8,6
+Nguyen,Elizabeth,3008,11,half,,10,,,9,,8,7,6,5,,4,,,,,3,2,1,,,,,,,,8,2,1,3,9,,7,5,4,6,10
+Allen,Jennifer,3009,12,full,9,,10,,,,,,8,,,,,1,2,,7,,,3,,6,,5,,4,,1,8,9,5,2,6,3,10,4,7
+Campbell,Andy,3010,12,half,,,,1,,,,,,2,,,3,,,4,,,5,10,9,,6,,7,8,1,5,6,8,4,9,2,10,,7,3
