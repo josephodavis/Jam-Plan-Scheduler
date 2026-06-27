@@ -125,7 +125,6 @@ Lower values indicate students were placed in courses closer to their top choice
 
 - **Conflict checking** — `Student.alreadyTaken` is stubbed out but not yet implemented; students could be placed in courses they've previously completed.
 - **Priority queue** — The current implementation is a sorted insertion array (O(n) insert). A heap-based implementation would improve performance at larger scale.
-- **Hardcoded paths** — `createTestCSV()` and `createResultCSV()` contain hardcoded local file paths that need updating before use.
 
 ---
 
