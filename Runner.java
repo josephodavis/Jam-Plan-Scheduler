@@ -204,7 +204,7 @@ public class Runner{
   // the function createCSV will create a CSV file with testing data of the proper size
   public static void createTestCSV(){
     // desired file path
-    String csvFile = "/Users/josephdavis/PDS/final-project-josephodavis/test.csv";
+    String csvFile = "";
 
     // headers of the csv file
     String[] headers = new String[65];
@@ -335,7 +335,7 @@ public class Runner{
   public static void createResultCSV(Schedule plan){
   
     // file path
-    String csvFile = "/Users/josephdavis/PDS/final-project-josephodavis/res.csv";
+    String csvFile = "";
 
     // headers of classes
     String[] headers = new String[plan.allClasses.size()];
